@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "H.E. Neoh"
+  },
+  "text": {
+    "more": "The dynamism is illustrated by clicking on the 'Group Selector' dropleft menu and selecting different months. Each month links to a page which displays the state of the network during that month. Therefore, if the months are clicked ascendingly, the network can be visualized to be growing/emerging.",
+    "intro": "This is a dynamic visualization of the follow network of Twitter users during the first six months of it's existence (03/2006 to 08/2006).",
+    "title": "Dynamic Twitter 'Follow' Network"
+  },
+  "legend": {
+    "edgeLabel": "Follow",
+    "colorLabel": "In-degree",
+    "nodeLabel": "Twitter User Account"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "joindate",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "line",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize":29
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
