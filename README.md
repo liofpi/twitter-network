@@ -6,6 +6,8 @@ Important. For most web browsers including Chrome, the files must be uploaded to
 
 The dynamism is illustrated by clicking on the 'Group Selector' dropleft menu and selecting different months. Each month links to a page which displays the state of the network during that month. Therefore, if the months are clicked ascendingly, the network can be visualized to be growing/emerging.
 
+- Direct URL: https://khqhrk.github.io/Twitter-follow-network/
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 The template for this visualization is provided by the InteractiveVis project from Oxford Internet Institute.
