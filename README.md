@@ -10,12 +10,6 @@ The dynamism is illustrated by clicking on the 'Group Selector' dropleft menu an
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-The template for this visualization is provided by the InteractiveVis project from Oxford Internet Institute.
-
-However, the further modification of the design of the network and features as well as the addition of the month-by-month dynamism of the network emerging were implemented by Hupeu Neoh.
-
-------------------------------------------------------------------------------------------------------------------------------
-
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
 https://github.com/oxfordinternetinstitute/InteractiveVis/
