@@ -19,7 +19,7 @@ function GetQueryStringParams(sParam,defaultVal) {
 }
 
 
-jQuery.getJSON(GetQueryStringParams("config","twitter-network/config/configMarch.json"), function(data, textStatus, jqXHR) {
+jQuery.getJSON(GetQueryStringParams("config","https://liofpi.github.io/twitter-network/config/config.json"), function(data, textStatus, jqXHR) {
 	config=data;
 	
 	if (config.type!="network") {
