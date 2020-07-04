@@ -2,11 +2,9 @@
 
 This is a dynamic visualization of the follow network of Twitter users during the first six months of it's existence (03/2006 to 08/2006).
 
-Important. For most web browsers including Chrome, the files must be uploaded to a webserver (or run one locally) in order to be viewed. JavaScript security prevents running the pages locally without a webserver. For Firefox, the files can be opened directly. 
-
 The dynamism is illustrated by clicking on the 'Group Selector' dropleft menu and selecting different months. Each month links to a page which displays the state of the network during that month. Therefore, if the months are clicked ascendingly, the network can be visualized to be growing/emerging.
 
-- Direct URL: https://khqhrk.github.io/Twitter-follow-network/
+- To View this Visualisation: https://liofpi.github.io/twitter-network/
 
 ------------------------------------------------------------------------------------------------------------------------------
 
