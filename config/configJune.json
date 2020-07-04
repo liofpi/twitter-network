@@ -1,7 +1,7 @@
 {
   "type": "network",
   "version": "1.0",
-  "data": "dataMarch.json",
+  "data": "../data/dataJune.json",
   "logo": {
     "file": "",
     "link": "",
@@ -43,7 +43,7 @@
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize":10
+      "maxNodeSize":18
     },
     "mouseProperties": {
       "maxRatio": 20,
