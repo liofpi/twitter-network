@@ -1,10 +1,10 @@
-# Dynamic Twitter 'Follow' Network
+# Dynamic Twitter Network Visualization
 
-This is a dynamic visualization of the follow network of Twitter users during the first six months of it's existence (03/2006 to 08/2006).
+This is a dynamic visualization of the network of Twitter users during the first six months of it's existence (03/2006 to 08/2006).
 
 The dynamism is illustrated by clicking on the 'Group Selector' dropleft menu and selecting different months. Each month links to a page which displays the state of the network during that month. Therefore, if the months are clicked ascendingly, the network can be visualized to be growing/emerging.
 
-- To View this Visualisation: https://liofpi.github.io/twitter-network/
+- To View this Visualization: https://liofpi.github.io/twitter-network/
 
 ------------------------------------------------------------------------------------------------------------------------------
 
