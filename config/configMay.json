@@ -1,7 +1,7 @@
 {
   "type": "network",
   "version": "1.0",
-  "data": "../data/dataMay.json",
+  "data": "data/dataMay.json",
   "logo": {
     "file": "",
     "link": "",
